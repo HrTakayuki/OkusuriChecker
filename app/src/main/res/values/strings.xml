@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">おくすりチェッカー</string>
+
+    <string name="alarm_btn">アラーム</string>
+    <string name="prescription_btn">処方せん</string>
+    <string name="calendar_btn">カレンダー</string>
+
+    <string name="btn_delete">削除</string>
+    <string name="back_btn">戻る</string>
+    <string name="set_btn">追加</string>
+    <string name="text_memo">メモ：</string>
+    <string name="text_time">時間：</string>
+    <string name="time">時間</string>
+    <string name="minute">分</string>
+    <string name="title">タイトル：</string>
+    <string name="list">一覧画面</string>
+    <string name="lbl_empty">☆☆☆データがありません☆☆☆</string>
+    <string name="btn_update">更新</string>
+    <string name="hint_A"> 例）飲んだ後眠気があるから注意</string>
+    <string name="hint_B"> 例）がぜぐすり2錠ずつ</string>
+    <string name="hint_C"> 例) 2</string>
+    <string name="hint_D"> 例）かぜぐすり</string>
+    <string name="hint_E">例）かぜ薬"Y"2錠, かぜ薬"X"1錠</string>
+    <string name="set_title_list">一覧表示</string>
+    <string name="set_title_alarm">アラーム設定</string>
+    <string name="set_title_detail">詳細画面</string>
+    <string name="set_title_prescription">処方せんの登録画面</string>
+
+    <string name="lbl_delete_success">削除しました</string>
+    <string name="lbl_delete_failed">削除できませんでした</string>
+    <string name="lbl_update_success">更新しました</string>
+    <string name="lbl_update_failed">更新できませんでした</string>
+    <string name="lbl_set">タイトルを入力してください</string>
+
+    <string name="radio_QA_A">Q. あさ・ひる・よる？</string>
+    <string name="radio_QA_B">Q. タイミングはいつですか？</string>
+    <string name="radio_not">選択なし</string>
+    <string name="Morning_radio_QA_A">あさ</string>
+    <string name="Noon_radio_QA_A">ひる</string>
+    <string name="Night_radio_QA_A">よる</string>
+    <string name="timing_A">食後</string>
+    <string name="timing_B">食前</string>
+    <string name="medicine_QA">Q. おくすりのいくつですか？</string>
+    <string name="medicine_QA_nb">錠</string>
+
+
+</resources>
